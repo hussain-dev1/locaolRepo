@@ -1,1 +1,1 @@
-# my first gitHub gitHub
+# my first gitHub public project
